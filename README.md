@@ -53,7 +53,3 @@ Feedback, corrections and contributions are welcome via Issues or Pull Requests.
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 You are free to share and adapt this material for any purpose, including commercially, as long as appropriate credit is given.
-
----
-
-*A [Pelarion](https://pelarion.com) project.*
