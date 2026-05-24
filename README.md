@@ -13,7 +13,7 @@ Live dashboard: **[threat-sentinel.com](https://threat-sentinel.com)**
 | Playbook | Severity | Status |
 |---|---|---|
 | [Ransomware Attack](ransomware-attack-en.md) | Critical | Available |
-| Phishing & Business Email Compromise | High | In Progress |
+| [Phishing & Business Email Compromise](phishing-BEC-en.md) | High | Available |
 | Data Breach | High | Planned |
 | Identity Compromise | Critical | Planned |
 | Cloud Tenant Compromise | Critical | Planned |
