@@ -14,8 +14,8 @@ Live dashboard: **[threat-sentinel.com](https://threat-sentinel.com)**
 |---|---|---|
 | [Ransomware Attack](ransomware-attack-en.md) | Critical | Available |
 | [Phishing & Business Email Compromise](phishing-bec-en.md) | High | Available |
-| Data Breach | High | Planned |
-| Identity Compromise | Critical | Planned |
+| [Data Breach](data-breach-en.md) | High | Available |
+| [Identity Compromise](identity-compromise-en.md) | Critical | Avaliable |
 | Cloud Tenant Compromise | Critical | Planned |
 
 ---
