@@ -21,7 +21,7 @@ Live dashboard: **[threat-sentinel.com](https://threat-sentinel.com)**
 | [Supply Chain Compromise](supply-chain-compromise-en.md) | High | Available |
 | [DDoS Attack](ddos-attack-en.md) | High | Available |
 | [Insider Incident](insider-threat-en.md) | High | Available |
-| Cloud Tenant Compromise | Critical | Planned |
+| [Cloud Tenant Compromise](cloud-tenant-compromise-en.md) | Critical | Available |
 
 ---
 
