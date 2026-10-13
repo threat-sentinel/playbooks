@@ -536,25 +536,3 @@ This playbook does not provide legal advice. It should ensure that:
 Structured response playbook for suspected or confirmed ransomware incidents — from early detection and containment through identity and backup protection, evidence preservation, trusted recovery and post-incident review.
 
 **Core phases:** Detect, Contain, Investigate, Eradicate, Recover, Review.
-
-## Notes for Threat Sentinel
-
-This version is optimized for a public playbook library and should work well as a community-facing reference because it combines:
-
-- fast-action guidance,
-- a visible first-15-minutes section,
-- explicit decision rules,
-- stronger identity and backup prioritization,
-- recovery gates,
-- and clean phase exit criteria.
-
-For website presentation, the most useful format would be:
-
-- executive summary,
-- first 15 minutes,
-- decision model,
-- collapsible response phases,
-- evidence checklist,
-- communication checklist,
-- quick response checklist,
-- references section.

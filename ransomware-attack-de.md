@@ -536,25 +536,3 @@ Dieses Playbook stellt keine Rechtsberatung dar. Es soll sicherstellen, dass:
 Strukturiertes Reaktions-Playbook für vermutete oder bestätigte Ransomware-Vorfälle — von früher Erkennung und Eindämmung über den Schutz von Identitäten und Backups bis hin zu Beweissicherung, vertrauenswürdiger Wiederherstellung und Nachbereitung.
 
 **Kernphasen:** Erkennen (Detect), Eindämmen (Contain), Untersuchen (Investigate), Beseitigen (Eradicate), Wiederanlauf (Recovery), Nachbereitung (Review / Lessons Learned).
-
-## Hinweise für Threat Sentinel
-
-Diese Version ist für eine öffentliche Playbook-Library optimiert und eignet sich gut als community-orientierte Referenz, weil sie Folgendes kombiniert:
-
-- schnelle Handlungsanweisungen,
-- einen sichtbaren First-15-Minutes-Block,
-- explizite Entscheidungsregeln,
-- stärkere Priorisierung von Identität und Backups,
-- Recovery-Gates,
-- und saubere Exit-Kriterien pro Phase.
-
-Für die Website-Präsentation wäre folgendes Format besonders nützlich:
-
-- Zusammenfassung,
-- die ersten 15 Minuten,
-- Entscheidungsmodell,
-- einklappbare Response-Phasen,
-- Evidence-Checkliste,
-- Kommunikations-Checkliste,
-- Quick-Response-Checkliste,
-- Referenzabschnitt.
